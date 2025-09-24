@@ -1,4 +1,3 @@
-# Kong-Admin
 # Kong Admin API Documentation
 
 ## Table of Contents
